@@ -68,7 +68,7 @@ These are new public portfolio examples and adaptations. They demonstrate the ap
 | [Example mutual teaming NDA](example-teaming-nda.md) | Purpose-limited sharing, information protection, and relationship boundaries |
 | [Example HIPAA business associate agreement](example-hipaa-baa.md) | Healthcare information responsibilities and contract review considerations |
 | [Basic bid or no bid decision matrix](bid-no-bid-matrix.md) | Mandatory gates, evidence-based scoring, a fictional worked example, and decision follow-through |
-| [FAR and sales strategy assistants](ai-assistants.md) | GPT-based FAR Q&A support and sales strategy brainstorming and review |
+| [FAR and sales strategy assistants](ai-assistants.md) | Client-used prototypes for GPT-based FAR Q&A support and sales strategy brainstorming and review |
 | [Artifact provenance](artifact-notes.md) | Historical experience, source adaptations, and newly drafted examples |
 
 ## Skills demonstrated
@@ -80,5 +80,6 @@ Capture management · Capture facilitation · Teaming coordination · CRM coordi
 This narrative was prepared from my account of actual professional work. It is a portfolio summary, not an original client deliverable or independent verification of award outcomes. Client names, internal software details, proprietary records, and source documents are not published here. Additional public-safe context can be added as the case study develops.
 
 [View my portfolio](https://jj4045.github.io/) · [View my résumé](https://jj4045.github.io/resume.pdf)
+
 
 
