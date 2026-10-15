@@ -2,17 +2,19 @@
 
 **Joseph Johnson | Capture Manager**
 
-Real-world experience supporting a teaming cooperative, client pursuit decisions, and opportunity win strategies.
+SRS consulting and capture support for a teaming cooperative, client pursuit decisions, and opportunity win strategies. The cooperative and client companies are unnamed.
 
 ## At a glance
 
 - **Work type:** Professional experience, summarized retrospectively for this portfolio.
+- **Attribution:** SRS consulting; capture support to influence and assist the cooperative support team.
+- **Operating scale:** At least six members meeting weekly.
 - **Contribution:** Capture management and facilitation, CRM coordination, client follow-up, member engagement, and outbound sales outreach.
 - **Outcome:** Supported capture management and teaming facilitation for four companies that won contracts, including one that earned a Navy SeaPort contract vehicle award.
 
 ## The operating challenge
 
-Capture work required coordinated participation across a teaming cooperative. Clients needed to follow through on bid/no-bid decisions, and each opportunity needed a win strategy before proposal writing began. My work supported that coordination and decision discipline.
+Capture work required coordinated participation across a teaming cooperative with at least six members. We met weekly and looked for opportunities requiring participation from at least two members. Clients needed to follow through on bid/no-bid decisions, and each opportunity needed a win strategy before proposal writing began. My work supported that coordination and decision discipline.
 
 ## My role and contribution
 
@@ -30,11 +32,15 @@ I helped ensure that each opportunity had a win strategy before proposal writing
 
 ### Sustain teaming participation
 
-I facilitated member engagement and encouraged motivated, active participation in the cooperative's capture activities.
+I created publications and helped inspire and motivate the team through weekly meetings. Win strategy was discussed during those meetings. My consulting and capture support influenced and assisted the cooperative support team, encouraging active participation across at least six members.
 
 ### Conduct outbound outreach
 
 I reached out to prospective clients through outbound sales activity to engage them and identify opportunities.
+
+## Challenges addressed
+
+I helped resolve challenges involving mistrust, confidentiality, and communication within the cooperative. Weekly meetings, publications, and participation support were part of my work with the team. This public summary does not reproduce internal discussions or confidential materials.
 
 ## Capture approach
 
@@ -42,7 +48,7 @@ The following is a retrospective summary of my approach, rather than an original
 
 1. Engage prospective clients through outbound outreach.
 2. Support opportunity tracking and coordination through the internal CRM.
-3. Facilitate cooperative member participation.
+3. Meet weekly with the cooperative, look for opportunities requiring at least two members, and discuss win strategy.
 4. Verify bid/no-bid decisions and follow up on commitments.
 5. Help establish a win strategy before proposal writing begins.
 
@@ -54,10 +60,11 @@ The SeaPort result was a **contract vehicle award**. This case study does not cl
 
 ## Skills demonstrated
 
-Capture management · Capture facilitation · Teaming coordination · CRM coordination · Bid/no-bid follow-up · Win-strategy development · Stakeholder engagement · Outbound sales
+Capture management · Capture facilitation · Teaming coordination · CRM coordination · Bid/no-bid follow-up · Win-strategy development · Stakeholder engagement · Outbound sales · Publications · Weekly meeting facilitation · Communication
 
 ## About this case study
 
 This narrative was prepared from my account of actual professional work. It is a portfolio summary, not an original client deliverable or independent verification of award outcomes. Client names, internal software details, proprietary records, and source documents are not published here. Additional public-safe context can be added as the case study develops.
 
 [View my portfolio](https://jj4045.github.io/) · [View my résumé](https://jj4045.github.io/resume.pdf)
+
