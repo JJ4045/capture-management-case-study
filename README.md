@@ -58,6 +58,19 @@ My capture management and teaming facilitation support contributed to work invol
 
 The SeaPort result was a **contract vehicle award**. This case study does not claim a subsequent task-order award, a contract dollar value, or revenue. The outcomes involved participating companies and their teams; my contribution was capture management and teaming facilitation support.
 
+## Portfolio artifacts
+
+These are new public portfolio examples and adaptations. They demonstrate the approach without reproducing confidential client records or representing the examples as executed agreements.
+
+| Artifact | What it demonstrates |
+| --- | --- |
+| [Teaming cooperative code of conduct](code-of-conduct.md) | Trust, fair participation, confidentiality, reporting, and accountability |
+| [Example mutual teaming NDA](example-teaming-nda.md) | Purpose-limited sharing, information protection, and relationship boundaries |
+| [Example HIPAA business associate agreement](example-hipaa-baa.md) | Healthcare information responsibilities and contract review considerations |
+| [Basic bid or no bid decision matrix](bid-no-bid-matrix.md) | Mandatory gates, evidence-based scoring, a fictional worked example, and decision follow-through |
+| [FAR and sales strategy assistants](ai-assistants.md) | GPT-based FAR Q&A support and sales strategy brainstorming and review |
+| [Artifact provenance](artifact-notes.md) | Historical experience, source adaptations, and newly drafted examples |
+
 ## Skills demonstrated
 
 Capture management · Capture facilitation · Teaming coordination · CRM coordination · Bid/no-bid follow-up · Win-strategy development · Stakeholder engagement · Outbound sales · Publications · Weekly meeting facilitation · Communication
@@ -67,4 +80,5 @@ Capture management · Capture facilitation · Teaming coordination · CRM coordi
 This narrative was prepared from my account of actual professional work. It is a portfolio summary, not an original client deliverable or independent verification of award outcomes. Client names, internal software details, proprietary records, and source documents are not published here. Additional public-safe context can be added as the case study develops.
 
 [View my portfolio](https://jj4045.github.io/) · [View my résumé](https://jj4045.github.io/resume.pdf)
+
 
