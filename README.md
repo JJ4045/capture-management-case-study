@@ -1,6 +1,6 @@
 # Capture Management & Teaming Facilitation
 
-**Joseph Johnson | Capture Manager**
+**Joseph Johnson | SRS consulting and capture facilitation**
 
 SRS consulting and capture support for a teaming cooperative, client pursuit decisions, and opportunity win strategies. The cooperative and client companies are unnamed.
 
@@ -10,7 +10,7 @@ SRS consulting and capture support for a teaming cooperative, client pursuit dec
 - **Attribution:** SRS consulting; capture support to influence and assist the cooperative support team.
 - **Operating scale:** At least six members meeting weekly.
 - **Contribution:** Capture management and facilitation, CRM coordination, client follow-up, member engagement, and outbound sales outreach.
-- **Outcome:** Supported capture management and teaming facilitation for four companies that won contracts, including one that earned a Navy SeaPort contract vehicle award.
+- **Role:** Capture facilitator and consulting support for the cooperative support team.
 
 ## The operating challenge
 
@@ -52,11 +52,9 @@ The following is a retrospective summary of my approach, rather than an original
 4. Verify bid/no-bid decisions and follow up on commitments.
 5. Help establish a win strategy before proposal writing begins.
 
-## Outcomes and attribution
+## Role and attribution
 
-My capture management and teaming facilitation support contributed to work involving four companies that won contracts. One of those companies earned a Navy SeaPort contract vehicle award.
-
-The SeaPort result was a **contract vehicle award**. This case study does not claim a subsequent task-order award, a contract dollar value, or revenue. The outcomes involved participating companies and their teams; my contribution was capture management and teaming facilitation support.
+I supported the cooperative as a capture facilitator and consultant. My contribution was to coordinate participation, support win-strategy discussions, maintain follow-through, and assist the support team. Participating companies retained their own bid decisions and proposal responsibilities. One company I supported was Legacy Management Solutions. Confidential pursuit and award details are omitted.
 
 ## Portfolio artifacts
 
